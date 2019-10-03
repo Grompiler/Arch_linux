@@ -1,7 +1,7 @@
 # Arch Linux install steps
 
-# check connection
-# ping www.google.com
+// check connection
+// ping www.google.com
 
 # check if efi boot is activated (should be)
 ls /sys/firmware/efi/efivars
