@@ -107,13 +107,12 @@ makepkg -si
 # rm -r yay
 
 # then use the script from the user sess as root
-# curl -LO https://raw.githubusercontent.com/Pioterr/LARBS/master/archi3/larbs.sh
+# curl -LO https://raw.githubusercontent.com/Pioterr/Arch_linux/master/install.sh
 # sh larbs.sh
 
-# config files: ~/.config/i3/config ; ~/.config/sxhkd/sxhkdrc ; ~/.config/wall.png ; ~/.bashrc ; ~/.gdbinit ; ~/.config/radare2rc ; st config file ;
+# config files: ~/.config/i3/config ; ~/.config/sxhkd/sxhkdrc ; ~/.config/wall.png ; ~/.bashrc ; ~/.gdbinit ; ~/.config/radare2rc ;
 
 # installation list:
-# -st (https://github.com/LukeSmithxyz/st) for colors in term, need to recompile to make changes (conf file on the drive: config.h)
 # -radare2
 # -cutter (binary to move in /bin)
 # -hopper-v4
