@@ -13,7 +13,7 @@ esac done
 
 # DEFAULTS:
 [ -z "$dotfilesrepo" ] && dotfilesrepo="https://github.com/Pioterr/voidrice.git" && repobranch="archi3"
-[ -z "$progsfile" ] && progsfile="https://raw.githubusercontent.com/Pioterr/LARBS/master/archi3/progs.csv"
+[ -z "$progsfile" ] && progsfile="https://raw.githubusercontent.com/Pioterr/Arch_linux/master/progs.csv"
 [ -z "$aurhelper" ] && aurhelper="yay"
 [ -z "$repobranch" ] && repobranch="master"
 
