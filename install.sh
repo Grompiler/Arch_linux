@@ -1,5 +1,8 @@
 #!/bin/sh
 
+#taken from https://github.com/LukeSmithxyz/LARBS
+#and added convinients modifications
+
 ### OPTIONS AND VARIABLES ###
 
 while getopts ":a:r:b:p:h" o; do case "${o}" in
