@@ -10,6 +10,7 @@
 ,radare2,"tools for binary analysis, you should use it with the cutter GUI"
 ,python-pip,"pip tool for python 3."
 ,libimobiledevice,"mobile devices usb recognition."
+,audacity,"sound edition software."
 A,discord,"is a voice and text chat for gamers that's free and secure"
 A,visual-studio-code-bin,"is Visual Studio Code (vscode) editor"
 ,gparted,"is a disk utility"
