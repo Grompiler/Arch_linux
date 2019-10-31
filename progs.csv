@@ -14,6 +14,7 @@
 A,discord,"is a voice and text chat for gamers that's free and secure"
 A,visual-studio-code-bin,"is Visual Studio Code (vscode) editor"
 ,gparted,"is a disk utility"
+,alsa-utils,"for sound management"
 ,mlocate,"is a command line tool to locate things"
 ,tree,"lists directory contents like trees. Used by vifm."
 ,arandr,"is a UI for screen adjustment."
