@@ -110,14 +110,10 @@ makepkg -si
 # curl -LO https://raw.githubusercontent.com/Pioterr/Arch_linux/master/install.sh
 # sh install.sh
 
-# config files: ~/.config/i3/config ; ~/.config/sxhkd/sxhkdrc ; ~/.config/wall.png ; ~/.bashrc ; ~/.gdbinit ; ~/.config/radare2rc ;
-
 # installation:
-# -radare2
 # -cutter (binary to move in /bin)
 # -hopper-v4
-# -vscode (material theme, +code base plugins)
-# -google-chrome
+# (-vscode (material theme, +code base plugins))
 
 # manually if needed
 # -nvidia, nvidia-settings (then run nvidia-settings)
