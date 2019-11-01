@@ -117,4 +117,4 @@ makepkg -si
 # (-vscode (material theme, +code base plugins))
 
 # manually if needed
-# -nvidia, nvidia-settings (then run nvidia-settings)
+# configure (disable) discord auto startup 
