@@ -3,6 +3,8 @@
 ,xorg-server,"is the graphical server."
 ,xorg-xwininfo,"allows querying information about windows."
 ,xorg-xinit,"starts the graphical server."
+,ttf-inconsolata,"is the monospace font."
+,ttf-linux-libertine,"provides the sans and serif fonts."
 ,gdb,"is the GNU Debugger"
 ,gimp,"is an image editor"
 ,vlc,"is a video player"
