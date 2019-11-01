@@ -25,7 +25,7 @@ esac done
 error() { clear; printf "ERROR:\\n%s\\n" "$1"; exit;}
 
 welcomemsg() { \
-	dialog --title "Welcome!" --msgbox "Installation Script!\\n\\nThis script will automatically install a fully-featured i3wm Arch Linux desktop, which I use as my main machine.\\n\\n" 10 60
+	dialog --title "Welcome!" --msgbox "Installation Script!\\n\\nThis script will automatically install a fully-featured AWESOME Arch Linux desktop, which I use as my main machine.\\n\\n" 10 60
 	}
 
 getuserandpass() { \
