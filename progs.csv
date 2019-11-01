@@ -5,6 +5,7 @@
 ,xorg-xinit,"starts the graphical server."
 ,ttf-inconsolata,"is the monospace font."
 ,ttf-linux-libertine,"provides the sans and serif fonts."
+A,ttf-monaco,"is the best font for a developer"
 ,gdb,"is the GNU Debugger"
 ,gimp,"is an image editor"
 ,vlc,"is a video player"
