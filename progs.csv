@@ -7,6 +7,7 @@
 ,gimp,"is an image editor"
 ,vlc,"is a video player"
 ,slock,"is a sreenlocker"
+,rxvt-unicode,"is a terminal"
 ,radare2,"tools for binary analysis, you should use it with the cutter GUI"
 ,python-pip,"pip tool for python 3."
 ,libimobiledevice,"mobile devices usb recognition."
