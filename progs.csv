@@ -5,6 +5,7 @@
 ,xorg-xinit,"starts the graphical server."
 ,gdb,"is the GNU Debugger"
 ,gimp,"is an image editor"
+,vlc,"is a video player"
 ,slock,"is a sreensaver"
 ,radare2,"tools for binary analysis, you should use it with the cutter GUI"
 ,python-pip,"pip tool for python 3."
