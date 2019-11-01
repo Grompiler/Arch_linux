@@ -38,6 +38,7 @@ nano /etc/pacman.d/mirrorlist
 # install base
 pacstrap /mnt base base-devel
 pacstrap /mnt git
+?? pacstrap /mnt nano linux
 
 # generate fstab
 genfstab -U /mnt >> /mnt/etc/fstab
