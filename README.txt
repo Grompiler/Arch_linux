@@ -119,3 +119,4 @@ makepkg -si
 # manually if needed
 # verify nvidia config file '/etc/X11/xorg.conf'
 # configure (disable) discord auto startup
+# rm -r .git pour vscode
