@@ -120,3 +120,4 @@ makepkg -si
 # verify nvidia config file '/etc/X11/xorg.conf'
 # configure (disable) discord auto startup
 # rm -r .git pour vscode
+# set theme in .config/gtk-3.0
