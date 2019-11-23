@@ -121,3 +121,5 @@ makepkg -si
 # configure (disable) discord auto startup
 # rm -r .git pour vscode
 # set theme in .config/gtk-3.0
+# install rust
+# install jetbrains toolbox
