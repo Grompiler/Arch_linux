@@ -85,6 +85,7 @@ passwd pierre
 # install grub
 pacman -S efibootmgr
 pacman -S grub
+?? pacman -S archlinux-keyring #Import PGP key 6D42BDD116E0068F, "Christian Hesse <arch@eworm.de>"? [Y/n]
 grub-install /*--target=x86_64*/ --efi-directory=/boot --bootloader-id=GRUB
 
 # if other OS on the disk, else do not need
