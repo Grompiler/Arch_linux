@@ -118,7 +118,7 @@ makepkg -si
 # (-vscode (material theme, +code base plugins))
 
 # manually if needed
-# verify nvidia config file '/etc/X11/xorg.conf'
+# verify nvidia config file '/etc/X11/xorg.conf' (sudo nvidia-settings)
 # configure (disable) discord auto startup
 # rm -r .git pour vscode
 # set theme in .config/gtk-3.0 #gtk-application-prefer-dark-theme=true
