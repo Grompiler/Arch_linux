@@ -124,4 +124,4 @@ makepkg -si
 # set theme in .config/gtk-3.0 #gtk-application-prefer-dark-theme=true
 # install rust # uncomment .bash_profile's rust line
 # install jetbrains toolbox
-# set git global email to empty (commiting email not authorized): git config --global user.email '<>'
+# set git global email to empty (commiting email not authorized): git config --global user.email '<>' (cf. file: ~/.gitconfig)
