@@ -125,4 +125,4 @@ makepkg -si
 # install rust # uncomment .bash_profile's rust line
 # install jetbrains toolbox
 # set git global email to empty (commiting email not authorized): git config --global user.email '<>' (cf. file: ~/.gitconfig)
-# haskell (sudo pacman -S ghc cabal-install stack) stack is to haskell what cargo is to rust + VSCode "haskero" plugin
+# haskell (sudo pacman -S ghc cabal-install stack) stack is to haskell what cargo is to rust + VSCode plugin
