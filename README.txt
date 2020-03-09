@@ -124,5 +124,6 @@ makepkg -si
 # set theme in .config/gtk-3.0 #gtk-application-prefer-dark-theme=true
 # install rust # uncomment .bash_profile's rust line
 # install jetbrains toolbox
+# curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 # set git global email to empty (commiting email not authorized): git config --global user.email '<>' (cf. file: ~/.gitconfig)
 # haskell (sudo pacman -S ghc cabal-install stack) stack is to haskell what cargo is to rust + VSCode plugin
