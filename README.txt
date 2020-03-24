@@ -1,4 +1,5 @@
 # Arch Linux install steps
+# etcher tool for usb live creation with iso
 
 # check connection
 # ping www.google.com
