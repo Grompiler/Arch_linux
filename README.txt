@@ -50,6 +50,14 @@ cat /mnt/etc/fstab
 # chroot system
 arch-chroot /mnt
 
+# Use timedatectl to ensure the system clock is accurate
+timedatectl set-ntp true
+timedatectl status
+
+# set timezone
+timedatectl set-timezone "Europe/Paris"
+timedatectl status
+
 # symlink for timezone
 ln -sf /usr/share/zoneinfo/Europe/Paris /etc/localtime
 
