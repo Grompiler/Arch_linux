@@ -109,19 +109,19 @@ grub-mkconfig -o /boot/grub/grub.cfg # should find linux image and initrd image 
 exit
 umount -R /mnt
 reboot
-
-
-# log into user session and install yay
-# install yay, aur package manager
-git clone https://aur.archlinux.org/yay.git
-cd yay
-makepkg -si
-# cd ..
-# rm -r yay
-
+{
+  # note that the script installs yay
+  # log into user session and install yay
+  # install yay, aur package manager
+  git clone https://aur.archlinux.org/yay.git
+  cd yay
+  makepkg -si
+  # cd ..
+  # rm -r yay
+}
 # then use the script from the user sess as root
-# curl -LO https://raw.githubusercontent.com/Pioterr/Arch_linux/master/install.sh
-# sh install.sh
+curl -LO https://raw.githubusercontent.com/Pioterr/Arch_linux/master/install.sh
+sh install.sh
 
 # installation:
 # -cutter (binary to move in /bin)
