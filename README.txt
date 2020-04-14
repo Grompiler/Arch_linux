@@ -140,4 +140,8 @@ sh install.sh
 # installer les composants pour coder en rust sous nvim
 # rustup component add rls rust-analysis rust-src
 # set git global email to empty (commiting email not authorized): git config --global user.email '<>' (cf. file: ~/.gitconfig)
+# to see git diffs with vim -> git difftool <file> or git d <file>
+# git config --global diff.tool vimdiff
+# git config --global difftool.prompt false
+# git config --global alias.d difftool
 # haskell (sudo pacman -S ghc cabal-install stack) stack is to haskell what cargo is to rust + VSCode plugin
