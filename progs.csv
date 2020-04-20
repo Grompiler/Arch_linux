@@ -7,6 +7,7 @@
 ,ttf-linux-libertine,"provides the sans and serif fonts."
 A,ttf-monaco,"is the best font for a developer"
 ,gdb,"is the GNU Debugger"
+,picom,"is for window opacity"
 ,gimp,"is an image editor"
 ,vlc,"is a video player"
 ,slock,"is a sreenlocker"
