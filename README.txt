@@ -1,6 +1,8 @@
 # Arch Linux install steps
 # etcher tool for usb live creation with iso
 
+Boot sur la partition efi de l'installeur pour installer un système efi
+
 # check connection
 # ping www.google.com
 
