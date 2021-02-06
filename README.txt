@@ -102,7 +102,7 @@ passwd pierre
 # install grub
 pacman -S grub
 pacman -S efibootmgr dosfstools mtools
-grub-install --target=x86_64 --bootloader-id=grub_uefi --recheck
+grub-install --target=x86_64-efi --bootloader-id=grub_uefi --recheck
 
 # if other OS on the disk, else do not need
 pacman -S os-prober
