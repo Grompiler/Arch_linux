@@ -27,8 +27,7 @@ mkfs.ext4 /dev/sdX #system
 
 # mounting disk
 mount /dev/sdX /mnt #system
-mkdir /mnt/boot
-mount /dev/sdX /mnt/boot #boot
+
 
 # verif
 df
@@ -101,11 +100,12 @@ passwd pierre
 
 # install grub
 pacman -S grub
-pacman -S efibootmgr dosfstools mtools
-grub-install --target=x86_64-efi --bootloader-id=grub_uefi --recheck
+pacman -S efibootmgr dosfstools mtools os-prober
 
-# if other OS on the disk, else do not need
-pacman -S os-prober
+mkdir /boot/EFI
+mount /dev/sda1 /boot/EFI #boot
+
+grub-install --target=x86_64-efi --bootloader-id=grub_uefi --recheck
 
 # make grub config
 grub-mkconfig -o /boot/grub/grub.cfg # should find linux image and initrd image in /boot/...
