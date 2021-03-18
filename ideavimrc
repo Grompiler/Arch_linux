@@ -8,8 +8,6 @@ nnoremap <C-l> $
 nnoremap <C-j> L
 nnoremap <C-k> H
 
-
-inoremap <C-l> <nop>
 inoremap <C-h> <Left>
 inoremap <C-l> <Right>
 inoremap <C-j> <Down>
