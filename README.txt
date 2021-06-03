@@ -132,6 +132,7 @@ sh install.sh
       [multilib]
       Include = /etc/pacman.d/mirrorlist
 # verify nvidia config file '/etc/X11/xorg.conf' (sudo nvidia-settings)
+# or /etc/X11/mhwd.d/nvidia.conf if using manjaro
 # configure (disable) discord auto startup
 # rm -r .git (home folder)
 # set theme in .config/gtk-3.0 #gtk-application-prefer-dark-theme=true
