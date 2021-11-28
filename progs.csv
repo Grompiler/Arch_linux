@@ -19,6 +19,7 @@
 ,xclip,"is a tool to copy and paste using system's clipboard"
 ,xdotool,"x11 libs for coding"
 ,radare2,"tools for binary analysis, you should use it with the cutter GUI"
+,ripgrep,"grep written in rust"
 ,python-pip,"pip tool for python 3."
 ,libimobiledevice,"mobile devices usb recognition."
 ,audacity,"sound edition software."
