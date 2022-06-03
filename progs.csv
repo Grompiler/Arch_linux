@@ -13,6 +13,7 @@
 ,vlc,"is a video player"
 ,slock,"is a sreenlocker"
 ,dmenu,"is dmenu"
+,fzf,"is a fuzzy finder"
 ,p7zip,"to deal with zip files"
 ,alacritty,"is a terminal written in Rust"
 ,fish,"is a user friendly shell"
