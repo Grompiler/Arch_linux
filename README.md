@@ -1,8 +1,8 @@
 # Install Manjaro via GUI
 
 # then use the script from the user sess as root
-curl -LO https://raw.githubusercontent.com/Pioterr/Arch_linux/master/install.sh
-sh install.sh
+curl -LO https://raw.githubusercontent.com/Pioterr/Arch_linux/master/install.sh  
+sudo sh install.sh
 
 # manually if needed
 
