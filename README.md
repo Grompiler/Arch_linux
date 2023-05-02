@@ -17,4 +17,5 @@ or /etc/X11/mhwd.d/nvidia.conf if using manjaro
 - rm -r .git (home folder)
 - install jetbrains toolbox
 - rustup component add rls rust-analysis rust-src rustfmt clippy
+- cargo install cargo-watch
 - set git global email to empty (commiting email not authorized): git config --global user.email '<>' (cf. file: ~/.gitconfig)
