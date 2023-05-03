@@ -11,6 +11,6 @@
 or /etc/X11/mhwd.d/nvidia.conf if using manjaro
 - configure (disable) discord auto startup
 - install jetbrains toolbox
-- rustup component add rls rust-analysis rust-src rustfmt clippy
+- rustup component add rls rust-analyzer rust-analysis rust-src rustfmt clippy
 - cargo install cargo-watch
 - set git global email to empty (commiting email not authorized): git config --global user.email '<>' (cf. file: ~/.gitconfig)
