@@ -2,7 +2,7 @@
 - install firefox-developer-edition
 - install rust via rustup
 - install paru https://github.com/Morganamilo/paru
-- install via pacman : ttf-jetbrains-mono gdb base-devel picom dmenu fzf fish ripgrep libimobiledevice tree sxiv unclutter feh polybar zathura net-tools kitty xorg-xrandr fd emacs (nvidia-settings)
+- install via pacman : ttf-jetbrains-mono gdb base-devel picom dmenu fzf fish ripgrep libimobiledevice tree sxiv unclutter feh polybar zathura net-tools kitty xorg-xrandr fd emacs cmake (nvidia-settings)
 - insatll via paru : discord leftwm leftwm-theme
 - save nvidia config file '/etc/X11/xorg.conf' (sudo nvidia-settings)
 - configure (disable) discord auto startup
