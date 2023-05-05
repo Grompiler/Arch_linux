@@ -8,6 +8,7 @@
 - configure (disable) discord auto startup
 - install jetbrains toolbox
 - install doom https://github.com/doomemacs/doomemacs
+- symlink doom executable in /bin: sudo ln -s ~/.config/emacs/bin/doom /bin/
 - rustup component add rls rust-analyzer rust-analysis rust-src rustfmt clippy
 - cargo install cargo-watch
 - set git global email to empty (commiting email not authorized): git config --global user.email '<>' (cf. file: ~/.gitconfig)
