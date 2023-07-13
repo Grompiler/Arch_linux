@@ -1,10 +1,11 @@
 # Install Manjaro with proprietary drivers via GUI
-- install firefox-developer-edition
-- install rust via rustup
+- set network accessible for all users
+- copy dot files
+- 
+- install rustup
 - install paru https://github.com/Morganamilo/paru
-- install via pacman : ttf-jetbrains-mono gdb base-devel picom dmenu fzf fish ripgrep libimobiledevice tree sxiv unclutter feh polybar zathura net-tools kitty xorg-xrandr fd emacs cmake docker gimp maim  xclip (nvidia-settings)
-- insatll via paru : discord leftwm leftwm-theme
-- save nvidia config file '/etc/X11/xorg.conf' (sudo nvidia-settings)
+- install via pacman : firefox-developer-edition ttf-jetbrains-mono gdb base-devel picom dmenu fzf fish ripgrep libimobiledevice tree sxiv unclutter feh polybar zathura net-tools kitty xorg-xrandr fd emacs cmake docker gimp maim  xclip (nvidia-settings)
+- insatll via paru : discord leftwm leftwm-theme (& leftwm-theme update / install "Ascent" & add conf)
 - configure (disable) discord auto startup
 - install jetbrains toolbox
 - install doom https://github.com/doomemacs/doomemacs
