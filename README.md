@@ -1,7 +1,6 @@
 # Install Manjaro with proprietary drivers via GUI
 - set network accessible for all users
 - copy dot files
-- 
 - install rustup
 - install paru https://github.com/Morganamilo/paru
 - install via pacman : firefox-developer-edition ttf-jetbrains-mono gdb base-devel picom dmenu fzf fish ripgrep libimobiledevice tree sxiv unclutter feh polybar zathura net-tools kitty xorg-xrandr fd emacs cmake docker gimp maim  xclip (nvidia-settings)
