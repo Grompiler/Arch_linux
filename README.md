@@ -12,3 +12,4 @@
 - rustup component add rls rust-analyzer rust-analysis rust-src rustfmt clippy
 - cargo install cargo-watch cargo-expand
 - set git global email to empty (commiting email not authorized): git config --global user.email '<>' (cf. file: ~/.gitconfig)
+- turn off notification sound
