@@ -3,7 +3,7 @@
 - copy dot files
 - install rustup
 - install paru https://github.com/Morganamilo/paru
-- install via pacman : firefox-developer-edition ttf-jetbrains-mono gdb base-devel picom dmenu fzf fish ripgrep libimobiledevice tree sxiv unclutter feh polybar zathura net-tools kitty xorg-xrandr fd emacs cmake docker gimp maim  xclip (nvidia-settings)
+- install via pacman : firefox-developer-edition ttf-jetbrains-mono gdb base-devel picom dmenu fzf zig fish ripgrep libimobiledevice tree sxiv unclutter feh polybar zathura net-tools kitty xorg-xrandr fd emacs cmake docker gimp maim  xclip (nvidia-settings)
 - insatll via paru : discord leftwm (leftwm-theme (& leftwm-theme update / install "Ascent" & add conf) or download conf from git & symlink Ascent conf as `current`) and run `leftwm-check`
 - configure (disable) discord auto startup
 - install jetbrains toolbox
